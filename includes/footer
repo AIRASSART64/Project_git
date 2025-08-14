@@ -1,0 +1,5 @@
+<?php
+
+echo "Mon footer tout beau tout joli";
+
+?>
